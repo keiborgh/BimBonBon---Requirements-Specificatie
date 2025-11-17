@@ -5,27 +5,60 @@ Welkom bij de requirements specificatie van BimBonBon!! Wij zijn een chocoladebe
 
 ## Organisatorische Context
 
-### _Missie_
+## Missie
+De missie van BimBonBon is om in al ons werk de hoogste kwaliteit te leveren. Wij geloven dat kwaliteit essentieel is voor succes op zowel de korte als lange termijn. Net zoals een bonbon zorgvuldig wordt gemaakt en een unieke smaakbeleving biedt, streven wij ernaar dat onze resultaten betrouwbaar, goed doordacht en met oog voor detail worden uitgevoerd.  
 
-De missie van BimBonBon is om in alles wat we doen de hoogste kwaliteit te leveren. Net zoals onze bonbons met zorg en aandacht worden gemaakt, willen we ook onze projecten nauwkeurig, creatief en betrouwbaar uitvoeren. Voor ons is kwaliteit geen keuze, maar de standaard. We streven ernaar om resultaten te leveren waar klanten en partners altijd op kunnen vertrouwen.
+**Kernpunten missie:**  
+- Kwaliteit als standaard, niet als keuze  
+- Betrouwbaarheid en precisie in uitvoering  
+- Zorgvuldige en creatieve aanpak  
+- Ervaring en beleving voor klanten en team  
 
-### _Visie_
+## Visie
+BimBonBon is een naam die staat voor kwaliteit, betrouwbaarheid en creativiteit.. We willen inspireren door te laten zien dat werken met zorg, passie en aandacht niet alleen nu, maar ook op de lange termijn een verschil maakt.  
 
-Onze visie is om BimBonBon te laten uitgroeien tot een team dat bekendstaat om kwaliteit, creativiteit en betrouwbaarheid. We willen blijven vernieuwen en oplossingen ontwikkelen die passen bij de behoeften van vandaag en de toekomst. Door met zorg en aandacht te werken, streven we ernaar blijvende waarde te creëren voor onze klanten, ons team en onze projecten.
+**Kernpunten visie:**  
+- Voorbeeld zijn in kwaliteit en oog voor detail  
+- Klanten en partners positief verrassen  
+- Creatieve en vernieuwende oplossingen ontwikkelen  
+- Langdurige waarde creëren voor team, klanten en partners  
 
-### _Strategie_
+## Strategie
+De strategie van BimBonBon richt zich op het continu verbeteren van kwaliteit en klantbeleving door innovatie, klantgerichtheid en creatieve oplossingen.  
 
-De strategie van BimBonBon is om onze digitale processen en klantbeleving te verbeteren door gebruik te maken van een centraal systeem in Odoo. We richten ons op het intern ontwikkelen en beheren van onze ERP- en CRM-processen, zodat we volledige controle houden over kwaliteit en efficiëntie. Onze eisen en wensen stellen we zelf op, waarna we deze vertalen naar functies binnen Odoo. Hiermee willen we onze klantrelaties verbeteren, onze productie en voorraad nauwkeuriger beheren en betere inzichten krijgen in verkoop en trends. Daarnaast willen we in de toekomst uitbreiden met een mobiele applicatie die klanten helpt om producten te registreren, informatie te vinden en sneller bestellingen te plaatsen. Door deze strategie zorgen we ervoor dat onze processen slimmer, sneller en klantgerichter worden uitgevoerd.
+- **Innovatie:** Nieuwe producten en digitale oplossingen (zoals de mobiele applicatie) ontwikkelen die aansluiten bij klantbehoeften.  
+- **Klantgerichtheid:** Producten en diensten aanbieden die inspelen op wensen, gemak en ervaring van klanten.  
+- **Duurzaamheid:** Transparante communicatie over herkomst en productie van chocolade.  
+- **Differentiatie:** Exclusieve, unieke producten en ervaringen die BimBonBon onderscheiden van concurrenten.  
 
-#### Doelstellingen
+## Doelstellingen
+## Doelstellingen
 
-#### Waarom deze doelstellingen?
-blabla
+### Waarom deze doelstellingen
+Deze doelstellingen helpen BimBonBon om de klanttevredenheid en loyaliteit te verhogen, de efficiëntie van processen te verbeteren en de positie van het merk te versterken. Door duidelijke korte en langetermijndoelen te stellen, kan het bedrijf gericht werken aan innovatie en klantgerichte oplossingen.
 
-### _Organogram_
-blablabka
+### Binnen 5 maanden
+- De mobiele applicatie ontwikkelen en lanceren, inclusief productregistratie en dashboard voor klanten.  
+- Basisfunctionaliteiten voor klachtenafhandeling en support beschikbaar maken.  
+- Pushnotificaties instellen voor productupdates en seizoensproducten.  
 
-## Stakeholderanalyse
-blabla
+### Binnen 1 jaar
+- Gepersonaliseerde aanbevelingen aanbieden op basis van aankoopgeschiedenis en voorkeuren.  
+- Integratie van de app met ERP, CRM en BI-tools voor actuele informatie en klantinzichten.  
+- Communityfuncties en gamification-elementen toevoegen om klantbetrokkenheid te verhogen.  
+
+### Binnen 3 jaar
+- Uitbouwen van exclusieve productervaringen zoals proeverijen, workshops en evenementen.  
+- Verdere uitbreiding van duurzame initiatieven en transparantie van productherkomst in de app.  
+- Innovatieve functies toevoegen zoals AR-proeverijen en virtuele fabriekstours.  
+
+### Doorlopend
+- Kwaliteit, betrouwbaarheid en klantgerichtheid bewaken en verbeteren.  
+- Regelmatige updates van de app uitvoeren om nieuwe functionaliteiten toe te voegen en prestaties te verbeteren.  
+- Data analyse gebruiken om trends en voorkeuren van klanten te volgen en productontwikkeling te ondersteunen.  
+  
+
+## Organogram
+
 
 
