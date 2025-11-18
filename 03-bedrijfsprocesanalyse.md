@@ -11,18 +11,25 @@ In deze analyse beschrijven we de belangrijkste bedrijfsprocessen, de huidige si
 5. **After sales & feedback**
 
 ## IST (Huidige situatie)
-- Handmatige registratie van producten  
-- Verspreide productinformatie en recepten  
-- Klachtenafhandeling onoverzichtelijk en traag  
-- Beperkt inzicht in klantvoorkeuren  
-- Marketing niet datagedreven  
-- Productontwikkeling ontvangt weinig directe feedback
+Op dit moment verloopt het contact met klanten vooral via e-mail, telefoon en verschillende losse systemen. Het registreren van producten, informatie geven en feedback krijgen is niet goed op elkaar afgestemd. Hierdoor werkt het voor klanten en medewerkers minder efficiënt.
+
+**Belangrijkste problemen:**
+- Producten moeten handmatig worden geregistreerd → kans op fouten
+- Productinformatie en recepten zijn verspreid → moeilijk te vinden voor klanten
+- Klachtenafhandeling is onoverzichtelijk en traag
+- Weinig inzicht in wat klanten kopen en wat hun voorkeuren zijn
+- Marketing en promoties zijn niet persoonlijk afgestemd
+- Productontwikkeling krijgt weinig directe feedback van klanten
 
 ## SOLL (Gewenste situatie)
-- Productregistratie via QR-code of handmatig  
-- Dashboard met informatie, recepten en tutorials  
-- Directe bestelling via app, gekoppeld aan ERP  
-- AI-chatbot en klachtenformulier met tracking  
-- Gepersonaliseerde notificaties en promoties  
-- Feedback naar productontwikkeling  
-- Analyse van geanonimiseerde klantdata
+Met de app hebben klanten één plek om producten te registreren, informatie te bekijken, bestellingen te plaatsen en hulp te krijgen. Alle processen zijn verbonden met interne systemen zoals ERP, CRM en BI-tools. Dit maakt het werken makkelijker en sneller voor klanten en medewerkers.
+
+**Verbetermogelijkheden:**
+- Producten registreren via QR-code of handmatig invoeren
+- Dashboard toont productinformatie, recepten en uitlegvideo’s
+- Bestellen kan direct via de app, gekoppeld aan ERP
+- AI-chatbot en digitaal klachtenformulier met statusupdates
+- Persoonlijke meldingen en aanbiedingen voor klanten
+- Klanten kunnen direct feedback geven aan productontwikkeling
+- Gegevens van klanten worden geanalyseerd voor marketing en productverbetering
+
