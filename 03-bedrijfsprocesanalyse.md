@@ -11,8 +11,7 @@ In deze analyse beschrijven we de belangrijkste bedrijfsprocessen, de huidige si
 5. **After sales & feedback**
 
 ## IST (Huidige situatie)
-Op dit moment verloopt het contact met klanten vooral via e-mail, telefoon en verschillende losse systemen. Het registreren van producten, informatie geven en feedback krijgen is niet goed op elkaar afgestemd. Hierdoor werkt het voor klanten en medewerkers minder efficiënt.
-
+Op dit moment verloopt het contact met klanten vooral via e-mail, telefoon en verschillende losse systemen. Het registreren van producten, informatie geven en feedback krijgen is niet goed op elkaar afgestemd. Hierdoor hebben klanten en medewerkers meer moeite en kost het meer tijd.
 **Belangrijkste problemen:**
 - Producten moeten handmatig worden geregistreerd, wat kan leiden tot fouten
 - Productinformatie en recepten zijn verspreid en moeilijk te vinden voor klanten
