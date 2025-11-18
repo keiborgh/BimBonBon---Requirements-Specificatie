@@ -111,6 +111,8 @@ graph TD
     PK --> CP
     PK --> QC
 
+
+
 ## Stakeholderanalyse BimBonBon app
 
 In deze analyse bekijken we de belangrijkste betrokkenen (stakeholders) rondom de BimBonBon app.  
