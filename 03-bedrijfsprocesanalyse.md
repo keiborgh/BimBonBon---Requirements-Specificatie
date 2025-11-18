@@ -65,7 +65,7 @@ graph TD
     C -->|Geen oplossing| E[Contact met medewerker]
     E --> F[Ticket aangemaakt door klantenservice]
     F --> G[Feedback via app verwerkt en doorgegeven aan productteam]
-
+```
 Het huidige klantondersteuningsproces is traag en omslachtig. Door een mobiele app in te zetten kan BimBonBon:
 
 - Klanten sneller en makkelijker helpen  
