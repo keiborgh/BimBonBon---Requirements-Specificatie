@@ -110,9 +110,7 @@ graph TD
     CS --> SM
     PK --> CP
     PK --> QC
-
-
-NEWLINE
+```
 
 ## Stakeholderanalyse BimBonBon app
 
