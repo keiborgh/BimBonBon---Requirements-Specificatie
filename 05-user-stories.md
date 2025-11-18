@@ -145,7 +145,7 @@ wil ik feedback kunnen achterlaten over producten
 | Klantenservice dashboard voor medewerkers | Vereist integratie met CRM/ERP systeem |
 | Marketing dashboard met klantinzichten | Eerst voldoende data verzamelen |
 | Loyalty systeem / spaarkaarten | Extra backend + complexere logica |
-| Social sharing van recepten | Nice-to-have, geen prioriteit voor MVP |
+| Social sharing van recepten | Leuk om te hebben, geen prioriteit voor MVP |
 
 ---
 
