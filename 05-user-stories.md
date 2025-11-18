@@ -1,7 +1,7 @@
 # User Stories voor de BimBonBon App (MVP)
 
 Deze user stories beschrijven de belangrijkste functionaliteiten voor de eerste versie (MVP) van de BimBonBon app.  
-De app richt zich op het registreren van producten, bekijken van productinformatie, ontvangen van persoonlijke promoties en het verbeteren van de klantenservice via een AI-chatbot.
+De app richt zich op het registreren van producten, bekijken van productinformatie, ontvangen van persoonlijke promoties en het verbeteren van de klantenservice via een AI chatbot.
 
 De MVP focust op de functies die de meeste waarde leveren met de minste ontwikkeltijd.
 
