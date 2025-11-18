@@ -63,6 +63,43 @@ Deze doelstellingen helpen BimBonBon om de klanttevredenheid en loyaliteit te ve
   
 
 ## Organogram
+## Organogram BimBonBon-app
 
+### Uitleg
+Een **organogram** laat zien hoe de structuur van een organisatie is opgebouwd, wie verantwoordelijk is voor wat, en hoe de communicatie verloopt. Voor het project van de BimBonBon-app is het belangrijk om te weten wie beslissingen neemt, wie de uitvoering doet en wie input levert. Zo weet iedereen in het team waar zijn of haar taken liggen en wie moet worden geraadpleegd bij vragen of problemen.
+
+In ons organogram zie je bijvoorbeeld:
+- De **raad van commissarissen** die strategische beslissingen neemt.  
+- De **algemeen directeur** die alles coördineert en toezicht houdt.  
+- De **projectmanager van de app** die verantwoordelijk is voor het ontwikkelen van de app en het aansturen van het team.  
+- Het **ontwikkelteam** dat de app programmeert, ontwerpt en test.  
+- **Marketing & communicatie** die ervoor zorgt dat klanten weten van de app en de promoties.  
+- **Klantenservice** die vragen en klachten via de app afhandelt.  
+- **Productie & kwaliteit** die productinformatie, voorraadstatus en kwaliteitsdata levert.  
+- De **klanten zelf**, die de app gebruiken en feedback geven.
+
+### Organogram
+
+Raad van Commissarissen  
+        │  
+        └─ Algemeen Directeur  
+               │  
+               ├─ Projectmanager App-ontwikkeling  
+               │      ├─ Ontwikkelteam  
+               │      │      ├─ Programmeurs / Developers  
+               │      │      ├─ UX/UI Designers  
+               │      │      └─ Testers / QA  
+               │      │  
+               │      └─ Product Owner / Business Analyst  
+               │  
+               ├─ Marketing & Communicatie  
+               │      └─ Content Team / Social Media  
+               │  
+               ├─ Klantenservice  
+               │      └─ Supportmedewerkers  
+               │  
+               └─ Productie & Kwaliteit  
+                      ├─ Chocoladeproductie  
+                      └─ Kwaliteitscontrole
 
 
