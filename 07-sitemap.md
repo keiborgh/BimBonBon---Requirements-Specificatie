@@ -36,7 +36,7 @@ Hier kan de klant alle details van geregistreerde chocoladeproducten bekijken, z
 ### AI Chatbot  
 Een slimme assistent die veelgestelde vragen automatisch beantwoordt en helpt bij problemen met producten of bestellingen.
 
-- **Veelgestelde Vragen**: Lijst met standaardvragen en -antwoorden.  
+- **Veelgestelde Vragen**: Lijst met standaardvragen en antwoorden.  
 - **Stel een Vraag**: Klant kan zelf een vraag intypen en antwoord ontvangen via de chatbot.
 
 ### Handleiding  
