@@ -27,19 +27,33 @@ graph TD
 
 ## Uitleg van de onderdelen
 
-- **Startpagina**: Het beginscherm van de app waar de gebruiker toegang heeft tot alle functies.
-- **Productinformatie**: Hier vindt de klant alle details over het geregistreerde product, zoals naam, serienummer, ingrediënten en houdbaarheid.
-- **AI Chatbot**: Een slimme assistent die veelgestelde vragen automatisch beantwoordt.
-  - **V&A: Veelgestelde Vragen**: Lijst met standaardvragen en -antwoorden.
-  - **Stel een Vraag**: Klant kan zelf een vraag intypen en antwoord ontvangen via AI.
-- **Handleiding**: Digitale gebruiksaanwijzing voor het product, met tips, recepten en uitleg.
-- **Updates**: Informatie over nieuwe producten, acties, of verbeteringen.
-- **Klantenservice**: Als de chatbot geen oplossing biedt, kan de klant hier verdere hulp krijgen.
-  - **Tickets Aanmaken**: Klant dient een verzoek in voor hulp.
-  - **Live Chat / E-mail**: Alternatieve manieren om contact op te nemen met BimBonBon.
-- **Profielpagina**: Persoonlijke gegevens van de klant.
-  - **Instellingen**: Taal, meldingen, wachtwoord wijzigen.
-  - **Product Registreren**: Klant voegt een nieuw product toe aan zijn profiel.
-  - **Feedback sturen**: Klant kan feedback geven over producten of de app.
+### Startpagina  
+Het beginscherm van de app waar de gebruiker toegang heeft tot alle hoofdfuncties, zoals productregistratie, klantenservice en updates.
 
----
+### Productinformatie  
+Hier kan de klant alle details van geregistreerde chocoladeproducten bekijken, zoals productnaam, serienummer, ingrediënten en eventuele recepten of handleidingen.
+
+### AI Chatbot  
+Een slimme assistent die veelgestelde vragen automatisch beantwoordt en helpt bij problemen met producten of bestellingen.
+
+- **Veelgestelde Vragen**: Lijst met standaardvragen en -antwoorden.  
+- **Stel een Vraag**: Klant kan zelf een vraag intypen en antwoord ontvangen via de chatbot.
+
+### Handleiding  
+Digitale handleidingen en tutorials voor producten, met tips over gebruik en opslag.
+
+### Updates  
+Informatie over nieuwe producten, acties of veranderingen in recepten en productinformatie.
+
+### Klantenservice  
+Als de chatbot geen oplossing biedt, kan de klant hier verder geholpen worden.
+
+- **Ticket Aanmaken**: Klant dient een verzoek of klacht in voor extra ondersteuning.  
+- **Live Chat / E-mail**: Alternatieve manieren om contact op te nemen met BimBonBon.
+
+### Profielpagina  
+Persoonlijke gegevens van de klant, zoals naam en contactinformatie.
+
+- **Instellingen**: Taal, meldingen en wachtwoord aanpassen.  
+- **Product Registreren**: Klant voegt een nieuw BimBonBon product toe aan zijn profiel.
+
