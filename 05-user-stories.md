@@ -61,7 +61,7 @@ De MVP focust op de functies die de meeste waarde leveren met de minste ontwikke
 
 ---
 
-### User Story 5 – AI-chatbot openen
+### User Story 5 – AI chatbot openen
 **Als klant**  
 **wil ik** een gesprek kunnen starten met een AI-chatbot  
 **zodat** ik snel antwoord krijg op veelgestelde vragen.
