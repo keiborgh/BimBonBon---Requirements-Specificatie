@@ -52,4 +52,28 @@ graph TD
     F[Productontwikkeling krijgt weinig feedback] --> F1[Feedback via app wordt direct doorgegeven aan productteam]
 ```
 
+### Visualisatie van klantondersteuningsproces
+
+De onderstaande visualisatie toont het huidige (IST) en gewenste (SOLL) proces voor klantondersteuning bij BimBonBon.  
+Het laat zien waar knelpunten zitten en hoe de app deze oplost.
+
+```mermaid
+graph TD
+    A[Klant heeft vraag of klacht] --> B[App geopend door klant]
+    B --> C[Gebruik AI chatbot]
+    C -->|Antwoord gevonden| D[Probleem opgelost]
+    C -->|Geen oplossing| E[Contact met medewerker]
+    E --> F[Ticket aangemaakt door klantenservice]
+    F --> G[Feedback via app verwerkt en doorgegeven aan productteam]
+
+Het huidige klantondersteuningsproces is traag en omslachtig. Door een mobiele app in te zetten kan BimBonBon:
+
+- Klanten sneller en makkelijker helpen  
+- Werkdruk bij medewerkers verminderen  
+- Directe feedback verzamelen voor productverbetering  
+- Marketing en promoties beter afstemmen op klantbehoeften  
+
+Deze visualisatie biedt ontwikkelaars en stakeholders een duidelijk overzicht van hoe het nieuwe systeem de bestaande knelpunten oplost en de klanttevredenheid verhoogt.
+
+
 
