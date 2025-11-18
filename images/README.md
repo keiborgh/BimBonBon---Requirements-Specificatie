@@ -1,1 +1,1 @@
-![Stakeholder Matrix](./images/Stakeholdermatrix-Bimbonbon.png)
+![Stakeholder Matrix](Stakeholdermatrix-Bimbonbon.png)
