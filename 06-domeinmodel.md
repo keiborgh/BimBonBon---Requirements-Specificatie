@@ -29,50 +29,6 @@ classDiagram
 
 ```
 
----
-
-
-```mermaid
-classDiagram
-    class Klant {
-        +naam
-        +email
-        +telefoon
-    }
-    class Product {
-        +serienummer
-        +naam
-        +aankoopdatum
-    }
-    class Handleiding {
-        +titel
-        +inhoud
-    }
-    class Update {
-        +datum
-        +bericht
-    }
-    class Chat {
-        +starttijd
-        +eindtijd
-    }
-    class Chatbericht {
-        +bericht
-        +tijdstip
-    }
-    class Ticket {
-        +ticketnummer
-        +status
-    }
-
-    Klant --> Product
-    Product --> Handleiding
-    Product --> Update
-    Klant --> Chat
-    Chat --> Chatbericht
-    Klant --> Ticket
-```
-
 ```mermaid
 classDiagram
     class Klant {
