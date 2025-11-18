@@ -151,7 +151,7 @@ wil ik feedback kunnen achterlaten over producten
 
 ## Prioritering
 
-De MVP bevat de functies die:  
+**De MVP bevat de functies die:**  
 Direct klantproblemen oplossen  
 Werkdruk voor medewerkers verlagen  
 Waarde leveren met minimale ontwikkeltijd  
