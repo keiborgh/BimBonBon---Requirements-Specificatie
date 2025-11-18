@@ -48,7 +48,6 @@ classDiagram
     Product "1" --> "1" Handleiding
     Product "1" --> "*" Update
     Klant "1" --> "*" Chat
-```
     Chat "1" --> "*" ChatBericht
     Klant "1" --> "*" Ticket
 
@@ -56,3 +55,4 @@ classDiagram
     subgraph Informeren [Informeren: Laag invloed, laag belang]
         %% Momenteel geen stakeholders in deze categorie
     end
+```
