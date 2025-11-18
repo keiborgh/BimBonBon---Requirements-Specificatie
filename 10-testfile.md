@@ -51,8 +51,4 @@ classDiagram
     Chat "1" --> "*" ChatBericht
     Klant "1" --> "*" Ticket
 
-
-    subgraph Informeren [Informeren: Laag invloed, laag belang]
-        %% Momenteel geen stakeholders in deze categorie
-    end
 ```
