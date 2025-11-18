@@ -31,10 +31,10 @@ classDiagram
     Chat "1" --> "*" ChatBericht
     Klant "1" --> "*" Ticket
 ```
-**Uitleg:**
+**Toelichting (Leeg model):**
 
 - Dit diagram laat zien welke onderdelen van het systeem bestaan en hoe ze met elkaar verbonden zijn.
-- Het is nog leeg qua attributen en dient als overzichtelijk startpunt.
+- Er zijn nog geen attributen toegevoegd: het dient als overzichtelijk startpunt voor het ontwerp.
 
 # Domeinmodel – BimBonBon App (Ingevuld)
 
@@ -94,13 +94,9 @@ classDiagram
 
 ```
 
-**Uitleg:**
+**Toelichting (Ingevuld model):**
 
-Het tweede diagram bevat alle attributen van de klassen.
-
-- Het toont hoe veelvoudige relaties werken (bijvoorbeeld één klant kan meerdere producten hebben).
-- Het diagram helpt ontwikkelaars om direct te weten welke data in de database opgeslagen moet worden en hoe de objecten in de app samenwerken.
+- Toont alle attributen en methodes van de klassen.
+- Laat relaties tussen objecten zien, bijvoorbeeld één klant kan meerdere producten hebben.
+- Helpt ontwikkelaars te begrijpen welke data nodig is en hoe onderdelen samenwerken voor functies zoals registratie, support en feedback.
   
-# Toelichting Domeinmodel – BimBonBon App
-
-  Het domeinmodel geeft een overzicht van de belangrijkste onderdelen van het BimBonBon-systeem en hoe deze met elkaar verbonden zijn. Het laat zien welke objecten bestaan, zoals Klant, Product, Handleiding, Update, Chat en Ticket, en welke relaties er zijn, bijvoorbeeld dat een klant meerdere producten bezit of dat een product meerdere updates kan ontvangen. Dit model helpt ontwikkelaars en ontwerpers te begrijpen welke data elk onderdeel bevat en hoe de onderdelen samenwerken, zodat functies zoals productregistratie, klantenondersteuning en feedbackverwerking efficiënt kunnen worden gerealiseerd.
